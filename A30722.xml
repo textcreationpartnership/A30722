@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explanatory notes upon a mendacious libel called Concubinage and poligamy disproved; written by a nameless author, in answer to a book writ by J.B. as being a scurrilous libel, as not fit to be stiled an answer. As may appear, by a catalogue of notorious and villainous lies, and Billingsgate raileries, and dunghil language, to be shewed therein. By J.B. B.D.</title>
+            <author>J. B. (John Butler)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30722</idno>
+            <idno type="STC">Wing B6271</idno>
+            <idno type="STC">ESTC R219424</idno>
+            <idno type="EEBO-CITATION">99830898</idno>
+            <idno type="PROQUEST">99830898</idno>
+            <idno type="VID">35360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2047:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Explanatory notes upon a mendacious libel called Concubinage and poligamy disproved; written by a nameless author, in answer to a book writ by J.B. as being a scurrilous libel, as not fit to be stiled an answer. As may appear, by a catalogue of notorious and villainous lies, and Billingsgate raileries, and dunghil language, to be shewed therein. By J.B. B.D.</title>
+                  <author>J. B. (John Butler)</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author. And are to be sold by most booksellers in London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Concubinage and poligamy disproved.</note>
+                  <note>J.B. = John Butler.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+               <term>Concubinage and poligamy disproved --  Controversial literature --  Early works to 1800.</term>
+               <term>Marriage --  Religious aspects --  Early works to 1800.</term>
+               <term>Marriage law --  England --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35360:1" rendition="simple:additions"/>
+            <p>Explanatory NOTES UPON A Mendacious LIBEL, CALLED <hi>Concubinage</hi> and <hi>Poligamy</hi> DISPROVED;</p>
+            <p>Written by a nameleſs Author, in anſwer to a Book writ by <hi>J. B.</hi> as being a Scurrilous LIBEL, as not fit to be ſtiled an Anſwer. AS May appear, by a Catalogue of Notorious and Villainous Lies, and <hi>Billingſgate</hi> Raileries, and Dunghil Language, to be ſhewed therein.</p>
+            <p>By <hi>J. B.</hi> B. D.</p>
+            <q>
+               <bibl>Mat. 7.6.</bibl>
+               <p>Give not that which is holy unto Dogs<g ref="char:punc">▪</g> neither caſt ye your Pearls before Swine; leſt they trample them under their Feet, and turn again and rent you.</p>
+            </q>
+            <q>
+               <bibl>Chap. 5.13.</bibl>
+               <p>If the Salt hath loſt it ſavour, it's henceforth good for nothing, but to be caſt out, and to be troden under foot of Men.</p>
+            </q>
+            <q>
+               <bibl>Rev. 21.8.</bibl>
+               <p>But the fearful and Abominable, Whoremongers and Liars, ſhall have their part in the Lake that burneth with Fire and Brimſtone.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for the Author. And are to be ſold by moſt Bookſellers in <hi>London</hi> and <hi>Weſtminſter.</hi> 1698.</p>
+            <pb facs="tcp:35360:2"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35360:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>COncubinage Diſproved: And a Marriage of one Man with one Woman maintain<g ref="char:EOLhyphen"/>ed;</hi> together and at once, is a pretty ſort of a <hi>Paradox,</hi> which <hi>R. Baldwin</hi>'s Champion under<g ref="char:EOLhyphen"/>takes to manage in his Pamphlet ſo entituled.</p>
+            <p>For without <hi>Concubinage, Marriage</hi> cannot be Eſſentially Conſummated, <hi>and Marriage with<g ref="char:EOLhyphen"/>out Concubinage,</hi> cannot generate: So as it is a Riddle not eaſy to be reſolved, how this nameleſs thing the <hi>Epicene Saliſal</hi> Author came into the World without <hi>Concubinage,</hi> and ſo by Conſequence, <hi>without Marriage Conſummat<g ref="char:EOLhyphen"/>ed,</hi> and by conſequence by <hi>Whoredom,</hi> and that not in bed, but in the field, or on the bare Floor, without lying together, by a Vagrant Seed ſuck'd into the Womb thorough an Hopſack.</p>
+            <p>Now Concubinage, claiming from <hi>Concubi<g ref="char:EOLhyphen"/>natus,</hi> and from <hi>Concubo,</hi> means no more na<g ref="char:EOLhyphen"/>turally, and in plain <hi>Engliſh,</hi> but meerly a <hi>lying together of two Bedfellows,</hi> whether Children, Men, Women, or <hi>Man and Wife.</hi> But whe<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:35360:3"/>this Author of <hi>R. Baldwin's</hi> was more <hi>Knave or Fool,</hi> I muſt leave it to be determined by them that know him and his Wife; for one he muſt needs be, who aſſerts without any diſtinc<g ref="char:EOLhyphen"/>tion, That <hi>no Concubinage can be lawful,</hi> and by conſequence, that <hi>no one Man and his one only Wife,</hi> can lawfully <hi>Concubinate or lye together in bed,</hi> which cannot poſſibly be true.</p>
+            <p>But ſuppoſing the <hi>Grand-Jury of</hi> London, (who were unhappily drawn in by this Anonimous <hi>Daemonides</hi> or <hi>Stolidides</hi> (chooſe you whether) who Publiſhed them, in his Title Page, and in the <hi>Gazette</hi> of <hi>Monday, Feb.</hi> the <hi>7th,</hi> how that they preſented <hi>John Burler</hi> for Printing and Publiſhing a wicked Pamphlet in <hi>juſtification of Concubinage, which may become hurtful to divers Families,</hi> &amp;c.) did underſtand the <hi>Con<g ref="char:EOLhyphen"/>cubinage thus juſtified,</hi> to be nothing elſe but the ſame thing which is now a daies known by the name of <hi>keeping a Mils</hi> (as this nameleſs Var<g ref="char:EOLhyphen"/>let falſely ſuggeſts it is, in his Book written after the guiſe of the old Serpent, with a purpoſe to deceive.) Be it known therefore, to the Gentle<g ref="char:EOLhyphen"/>men of that <hi>Jury,</hi> and unto all the World, that the Author of that Book is a Pestilent <hi>Deceiver,</hi> and an errand Slanderous <hi>Liar.</hi>
+            </p>
+            <p>For the ſaid <hi>J. B.</hi> in his Title Page, juſtifies none but ſuch a <hi>Concubinage</hi> as is first plainly lawful; ſo as is first all <hi>Concubinage</hi> in a na<g ref="char:EOLhyphen"/>tural ſenſe in its ſelf, without unlawful mix<g ref="char:EOLhyphen"/>tures,
+<pb facs="tcp:35360:3"/>and all <hi>Concubinage</hi> in order unto gene<g ref="char:EOLhyphen"/>ration, ſo far as it is aſed according to the pre<g ref="char:EOLhyphen"/>ſcript Forms mentioned in God's word. And <hi>2ly</hi> ſuch alſo as is of <hi>Neceſſity,</hi> where <hi>Marriage</hi> ac<g ref="char:EOLhyphen"/>cording to Law cannot conveniently or <hi>poſibly</hi> be had: <g ref="char:V">Ʋ</g>nder which Conditions, <hi>Miſs keeping, Whoredom</hi> and <hi>Adultery</hi> are utterly diſclaim'd and ſhut out. And as for <hi>Poligamy</hi> there is not one word mentioned thereof, in the whole Tract: And as for any matter of <hi>double Con<g ref="char:EOLhyphen"/>cubinage;</hi> as it was in uſe in times of holy-Writ, this pretended Author, hath ſpoken of it only ſo far, as to juſtify <hi>a ſingle Concubinage,</hi> in a Caſe of Neceſſity; and left it at the diſpoſal of Authority at their pleaſure, to continue or reſtrain it. If theſe things be not thus, let my little Book of the <hi>State of the Caſe</hi> be examined, and if one tittle be found otherwiſe, let me bear the blame of the <hi>Jury,</hi> and this <hi>Railer.</hi> But be it true as I have here aſſerted, then let the <hi>Jury<g ref="char:EOLhyphen"/>men</hi> condemn him that miſled them. And let this <hi>Daemonides</hi> be branded for a Scarrilous and Scandalous Liar; and let <hi>R. Baldwin</hi> be noted for a Publiſher of ſuch Stuff.</p>
+            <p>Now be theſe things ſo; and are the <hi>Premiſes</hi> ſuch, and at this rate, then follows in <hi>Conclu<g ref="char:EOLhyphen"/>ſion,</hi> That this malicious Scribler hath ſhot at Ro<g ref="char:EOLhyphen"/>vers, and written only againſt, <hi>Adultery, Forni<g ref="char:EOLhyphen"/>cation</hi> and <hi>Miſs keeping,</hi> &amp; yet hath condemned <hi>lawful Concubinage,</hi> and by Conſequence ſacred Marriage alſo, which without Concubinage, can
+<pb facs="tcp:35360:4"/>is no ſuch thing. Whence follows that his whole treatiſe called <hi>Concubinage diſproved</hi> is <hi>no<g ref="char:EOLhyphen"/>thing to the purpoſe.</hi> And beſides it is a <hi>Poe<g ref="char:EOLhyphen"/>tical ſporting upon God's Word,</hi> and <hi>the holy Doctrines</hi> thereof, ſtuffed with abundance of <hi>Railing Ribauldry,</hi> and <hi>Lies</hi> as may appear by what follows. And what ſoever can be found of any weight by way of objection unto what I have written of the lawfulneſs of Concubinage, ſhall be fully anſwered in a little Tract by it ſelf.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35360:4"/>
+            <head>THE INTRODUCTION.</head>
+            <p>
+               <hi>FAithful are the Wounds of a Friend.</hi> (ſaith the <hi>Wiſeman</hi>) And in truth they are good, for they are like <hi>the Chaſtenings of the Lord, which are by no means to be diſpiſed,</hi> (Pro. 3.11.) <hi>But the kiſs</hi>'s <hi>of an Enemy are dangerous,</hi> they <hi>are earneſt, but too eager to be trusted,</hi> (Ch. 27.6.) Had I trip'd in the leaſt Syllable, of what I had Publiſhed, how kindly would I have received the cor<g ref="char:EOLhyphen"/>rection of my friendly Reprover. But to be treated as a juſtifyer of Poligamy, of which, I had not mentioned <hi>one word in favour there<g ref="char:EOLhyphen"/>of.</hi> And to be proclaimed a friend of <hi>Whor<g ref="char:EOLhyphen"/>dom</hi> and <hi>Adultery,</hi> againſt which I have de<g ref="char:EOLhyphen"/>clared my <hi>perfect abhorrency.</hi> I can liken to nothing nearer, then to the malitious <hi>Jewiſh Phariſes,</hi> who ſlandered our <hi>Saviour,</hi> (the moſt temperate man in the world) <hi>as a glut<g ref="char:EOLhyphen"/>ton and a Winebibber</hi> (<hi>Mat.</hi> 11.19.) For to be ſpightfully laſh't in the dark, by a man inviſible, <hi>Daemonides, a child of the Divel the Father of Lyes,</hi> with <hi>ſuppoſitory ſlaunders,</hi> ſu<g ref="char:EOLhyphen"/>borned as <hi>real truths:</hi> Feels like nothing ſo neat as thoſe envenom'd wounds of him, <hi>who
+<pb n="2" facs="tcp:35360:5"/>like a roaring Lyon, walketh a bout, vagrantly wandring, and ſeeking to devour all that comes in his way,</hi> and ſaying, <hi>he hath no pike against him he never ſaw him,</hi> and yet however, <hi>whether Friend or Foe, whether right or wrong, down with him.</hi> The truth is, ſo ſoon as I ſaw the title Page of a <hi>ſecret Author,</hi> with <hi>R. Baldwin</hi> at bottom thereof, I ſoon imagined what I had to do with; for this was the Publiſher of that Scandalous and malicious Book, intit<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed <hi>The ſecret Hiſtory of the Reigns of King</hi> Charles <hi>the Second, and King</hi> James <hi>the Second, Printed in the year</hi> 90, and nameleſs both of <hi>Author, Printer</hi> and <hi>Publiſher;</hi> however, there I bought one, at <hi>R. Baldwin</hi>'s houſe, in the <hi>Old-Baily</hi> of his Wife, and ſaw Piles of them bound up to be ſold, and ſeveral of them ſold off before my Face, which Book being ſtuft with invictives againſt two Kings, and filled with malicious Lies: Take a taſte of one or two of them, as follows. [<hi>That the Lady</hi> Caſtlemain, <hi>ſeduced from her Loyolty to her Husband, and enticed into the Arms of the hap<g ref="char:EOLhyphen"/>pily reſtored Prince: Which was not only Adul<g ref="char:EOLhyphen"/>tery, but Incest in the Lord's Anointed; it being the opinion of ſeveral Perſons, who had reaſon to know more than others did, that ſhe was his Siſter by the Mothers ſide, as being begotten by the</hi> E. <hi>of St. <hi>A.</hi> upon the Queens body, after the Death of <hi>C.</hi> the First.</hi>] Theſe are the very words in the Hiſt. p. 22, and are as falſe as Scandalous,
+<pb n="3" facs="tcp:35360:5"/>or that a Child begotten of the Queen, (<hi>his reſent Majeſties Grand-Mother,</hi> or <hi>Mothers Mother,</hi> after the Death of C the firſt, on the 29th of <hi>May</hi> 1660, could not be above eleven years of age current; and therefore not be ripe for Child bearing. Another Story is annex'd p. 23. of the ſame Coin, ſaying, of K.C. the ſecond, [<hi>And having no leſs Adulterouſly begotten a Daughter upon the Lady</hi> Wood, <hi>he joyned her in holy Wedlock, to one of his Sons, whom he had begotten after the ſame Legitimate manner, upon the body of the Dutcheſs of</hi> Cleaveland.] And this is another ſuggeſtion of <hi>Satan, as impoſſible to be prov'd true,</hi> as the firſt was cer<g ref="char:EOLhyphen"/>tainly falſe. And now from a <hi>nameleſs lying Author,</hi> publiſhed by this thorow pack'd <hi>Pub<g ref="char:EOLhyphen"/>liſher of Lies,</hi> is come forth another ſuch a pack of Lies, under pretence of an Anſwer to a ſmall piece of Mine, with my name there<g ref="char:EOLhyphen"/>to. Which how candidly I have performed according to the truth of the Caſe, and the genuine ſenſe of God's holy word, I humbly refer to the ſcarcher of all Hearts, and the judgment of good Men, to be determined: But meeting with this pretended Anſwer, ut<g ref="char:EOLhyphen"/>terly void of all ſolid matter, and ſtich'd up with meer <hi>Lies</hi> and <hi>Railery:</hi> I can conceive no way ſo expeditious, to clear my Garment of this vile wreches dirt caſt upon them, then by taking off the <hi>Skum,</hi> and the <hi>Dregs</hi> from off his ſtinking puddle, that it may appear when
+<pb n="4" facs="tcp:35360:6"/>
+is made, what an heap of filth and dung he hath piled together, and what a ſmall ſpoonful of clear matter ſhall appear left be<g ref="char:EOLhyphen"/>hind.</p>
+            <div type="part">
+               <head>A Centilogy of downright LIES.</head>
+               <p>A Lye conſiſts of three Conditions 1st. It muſt be ſomething that is falſe. 2d The Author muſt know it to be ſo, and 3d he muſt utter it with a purpoſe to deceive. There may be therefore falſhoods that are not lies, as are all things ſpoken ignorantly, and for want of better knowledg, a Man thinking he ſpeaks true, when it is not ſo; yet when a Man does ſo raſhly and ſpightfully, and with a purpoſe to deceive. In many caſes ſuch a falſehood may be tantamount unto the worſt of lies. And becauſe I cannot have any true meaſure of this <hi>nameleſs Authors knowledge,</hi> I ſhall muſter up all lies and falſehoods in the ſame ſcrol.</p>
+               <p n="1">Lye 1. <hi>That I have been at a great deal of pains to write an Apology for the modiſh practice of keep<g ref="char:EOLhyphen"/>ing a Miſs.</hi> (Epiſt. Ded. p. 1.) It may appear upon ſearch, that in my whole tract, I have not wrote one ſyllable <hi>of keeping a Miſs,</hi> or of any thing tantamount thereto, that I have <hi>Apoligiſed for.</hi>
+               </p>
+               <p n="2">2. That <hi>in my</hi> (<hi>p.</hi> 34.) <hi>I have generouſly done it, as it were commending it from the pulpit as ſa<g ref="char:EOLhyphen"/>cred
+<pb n="5" facs="tcp:35360:6"/>and holy.</hi> (p. 2. Epiſt. D.) It is apparent to be ſeen, that in that page or elſe where, no ſuch thing is to be found.</p>
+               <p n="3">3. That <hi>Miſs and Concubine are Synonimous Words.</hi> (Epiſt. ded. p. 3.) This is falſe, for that <hi>Concubinage</hi> is properly no more but a lying to<g ref="char:EOLhyphen"/>gether of two in a bed, and <hi>lawful Concubinage</hi> is either the ſame with Marriage, or if out of, or beſides the Marriage bed, is no farther juſti<g ref="char:EOLhyphen"/>fied by me, then God's word does juſtify. But the <hi>Miſs</hi> being a new word, is counted ſignifi<g ref="char:EOLhyphen"/>cant of a woman kept meerly for pleaſure and wantonneſs, and not as a lawful <hi>Concubine,</hi> for the ſake of iſſue.</p>
+               <p n="4">4. That <hi>I have vindicated the liberty of Po<g ref="char:EOLhyphen"/>ligamy.</hi> (p. 3. Epi. de.) There is not one word of <hi>Poligamy</hi> vindicated in all my Book; but contrarily an exception that I own it not.</p>
+               <p n="5">5. That <hi>I make every Man a judge in his own Caſe, by adjudging</hi> Martha Perkins <hi>to be an unjust Deſertrice</hi> (p. 3. Ep. d.) I adjudged her not at all, but ſhe by her deſertion adjudged both me and her ſelf.</p>
+               <p n="6">6. That <hi>I took</hi> Mary Tompkins <hi>into her bed.</hi> (p. 3. Ep. D.) It was not her bed, after ſhe had wilfully, &amp; obſtinately forſaken it by deſertion.</p>
+               <p n="7">7. That <hi>The Concubinages of the Patriarches was a diſputed practice, not founded upon any po<g ref="char:EOLhyphen"/>ſitive command.</hi> (p. 3. E. D.) This is falſe, holy-writ ſaying the contrary (<hi>Exod.</hi> 21.10, 11, and <hi>Hoſ.</hi> 3.1, 2, 3.)</p>
+               <pb n="6" facs="tcp:35360:7"/>
+               <p n="8">8. That <hi>God's making uſe of Children of Con<g ref="char:EOLhyphen"/>cubinage to be inſtruments of his Glory, is no ſa<g ref="char:EOLhyphen"/>tisfaction to Reaſon or Conſcience without a Re<g ref="char:EOLhyphen"/>velation.</hi> (p. 4. E. D.) This falſe, for that God's acceptance is good proof without Revelation.</p>
+               <p n="9">9. That <hi>An holy Seed in</hi> Malachy <hi>inſinuates ſtrongly, that Concubinage is unholy.</hi> p. 4. E. D. This falſe, becauſe the ſon of <hi>Hagar,</hi> and ſons of <hi>Keturah</hi> by <hi>Abraham,</hi> and the ſons of <hi>Bilhah</hi> and <hi>Zibpah</hi> by <hi>Jacob,</hi> were all of them of the Seed of Concubinage, and yet were holy.</p>
+               <p n="10">10. That <hi>there is not the least vestige of Con<g ref="char:EOLhyphen"/>cubinage allowed in the new Testiment.</hi> (p. 5. E. D.) This falſe, as appears in our Saviours Caſe.</p>
+               <p n="11">11. That <hi>I have blaſphemouſly reflected upon the conception and birth of our Saviour</hi> (p. 5. E. D.) This falſe, for that he cannot name one word that I have ſpoken thereof, contrary to the holy Text.</p>
+               <p n="12">12. That <hi>I am guilty of prophane Alluſions about the ſame.</hi> (p. 5. E. D.) No ſuch to be prov'd.</p>
+               <p n="13">13. That <hi>My Notions appear very foul and hor<g ref="char:EOLhyphen"/>rid</hi> (p. 5. E. D.) And yet no ſuch foul or horrid<g ref="char:EOLhyphen"/>neſs can be made appear.</p>
+               <p n="14">14. That <hi>no better advice can be given me, than that of the Apostle to</hi> Simon Magus (<hi>Act.</hi> 8.22.) <hi>Repent of this they wickedneſs,</hi> &amp;c (p. 5. E. D.) And yet he can name nothing of me like the caſe of <hi>Simon Magus.</hi>
+               </p>
+               <p n="15">15. That <hi>Had I taken the Apostles advice to</hi> Timothy, <hi>I would never have been guilty of
+<pb n="7" facs="tcp:35360:7"/>ſuch a practice, or advanced ſuch principles.</hi> (p. 5. E. D.) And yet no practice nor principles can be charged againſt me contrary to that advice of the Apoſtle.</p>
+               <p n="16">16. That <hi>Concubinage had its riſe from</hi> Cain's <hi>Family.</hi> (p. 6. E. D.) This falſe, <hi>Poligamy</hi> had ſo, but not <hi>lawful Concubinage.</hi>
+               </p>
+               <p n="17">17. That <hi>My Wife ſays ſhe deſerted me be<g ref="char:EOLhyphen"/>cauſe I had got my Maid with Child aforehand.</hi> (p. 6. E. D.) This is a Lye, for that the Wo<g ref="char:EOLhyphen"/>man had deſerted above one year before any ſuch charge; And ſhe named not the time of her deſertion.</p>
+               <p n="18">18. That <hi>I make no ſcruple of breaking my mar<g ref="char:EOLhyphen"/>riage Vows to God and my Wife</hi> (p. 8, 9. e. d.) This falſe, He might have ſeen and read my vindi<g ref="char:EOLhyphen"/>cation, that I was not betrothed to her, and nothing is proved to the contrary, except the Allegation in her Libel; which of its ſelf is no proof. And had I made ſuch a vow, yet the <hi>marriage Vows</hi> are limited <hi>according to God's ordinances.</hi> And by her <hi>Deſertion</hi> and <hi>breach of God's ordinance,</hi> that vow is diſſolved, ac<g ref="char:EOLhyphen"/>cording to God's word, (1 <hi>Cor.</hi> 7.15.)</p>
+               <p n="19">19. That <hi>I am aleud Clergyman, that there is no way left me to heal my Reputation, but to con<g ref="char:EOLhyphen"/>feſs and foreſake.</hi> (p. 7. E. D.) This a vilainous ſlaunder, and a lye, charging me with a ſup<g ref="char:EOLhyphen"/>poſition, without any colour or ground of proof.</p>
+               <p n="20">20. That <hi>He had no picke against me.</hi> (p. 7. E.
+<pb n="8" facs="tcp:35360:8"/>D. this falſe, for that he hath ſo much re<g ref="char:EOLhyphen"/>proached me without a cauſe. And if he has not <hi>perſonal acquaintance</hi> with me, ſo much the more ſhame for him, to belye a Man he knows not. But it may be juſtly ſuppoſed in his Caſe, that he is hired to defame me. And an hire<g ref="char:EOLhyphen"/>ling takes up a <hi>Picke against a Man for Mony.</hi>
+               </p>
+               <p n="21">21. That <hi>I have taken upon me to be judge in mine own caſe</hi> (p. 8. E. D.) An old lye new vaumpt. See lye 5.</p>
+               <p n="22">22. That <hi>I am a very partial Caſuiſt, and give the Reader cauſe to ſuſpect my ſincerity,</hi> be<g ref="char:EOLhyphen"/>cauſe of <hi>allowing my wives Deſertion to be a Cauſe of Divorce, and that it ſhall not be ſo in the cauſe of the Government.</hi> (p. 8. E. D.) This doubly falſe, firſt, For that not I but my pre<g ref="char:EOLhyphen"/>tended <hi>wife divorced her ſelf,</hi> and holy writ makes the allowance. And ſecondly, As to the <hi>Government,</hi> I have not meddled at all in their caſe.</p>
+               <p n="23">23. That <hi>I propoſe an allowance of Poligamy.</hi> There's not one word of it in all my writing but the contrary.</p>
+               <p n="24">24. That <hi>My wife accuſes me of committing Adultery with my Maid, before ſhe left me.</hi> (p. 11. E. D.) An old lye new vaump'd up: See lye the 17.</p>
+               <p n="25">25. That <hi>I have given offence to the Church of God.</hi> (p. 11. E. D.) No ſuch thing proved, every common Liar is no Church of God.</p>
+               <p n="26">26. The 4th lye repeated over again.</p>
+               <pb n="9" facs="tcp:35360:8"/>
+               <p n="27">27. That <hi>if liberty be granted to have more than one wife, a man may take as many as he pleaſeth</hi> (p. 12. E. D.) This falſe, for that God who allows to take another wife, (<hi>Exo.</hi> 2.10.) <hi>yet forbids multiplicity,</hi> (Deut. 17.17.)</p>
+               <p n="28">28. That <hi>my want of Application to the Ma<g ref="char:EOLhyphen"/>giſtrate, either in Church or State; was a ſuſpi<g ref="char:EOLhyphen"/>cious token of inordinate Love</hi> (p. 11. E. D.) And yet no ſuch Application required by the word of God.</p>
+               <p n="29">29. That <hi>if my project had took place, our Nobility and Gentry ſhould have Cennels of Con<g ref="char:EOLhyphen"/>cubines, as they have now of Hounds</hi> p. 12. E. D. A falſe Conſequence, and a belying my project.</p>
+               <p n="30">30. That <hi>I have written unadviſedly upon this Head.</hi> (p. 13. E. D.) And yet can he find nothing in my writing ſavouring thereof.</p>
+               <p n="31">31. That <hi>after Forty years I had lived with my wife, I went into my Maids bed</hi> p. 13. E. D. This is perfectly invented, or wilfully miſtook.</p>
+               <p n="32">32. That <hi>my looſe Book hath done a world of miſcheif in the Nation</hi> (p. 14. E. D.) This a double lye. Firſt, for he can charge no guilt of looſeneſs againſt my Book rightly under<g ref="char:EOLhyphen"/>ſtood. And ſecondly, he cannot teſtify one dram of miſchief it hath done, except by ac<g ref="char:EOLhyphen"/>cident.</p>
+               <p n="33">33. That <hi>I can expect no Pardon of God or his Church, except I make my Recantation as publick as my Crime</hi> (p. 14. E. D.) I ſhall ſuppoſe this
+<pb n="10" facs="tcp:35360:9"/>fellow wants employment; and my Recan<g ref="char:EOLhyphen"/>tation would do him a kindneſs, to make way for him, for ſuch another job, in order to be hired again to ruffle with ſomebody elſe, for another ſuch a bribe.</p>
+               <p n="34">34. <hi>His title is a very lye,</hi> for as much as he has raſhly Condemned <hi>Concubinage,</hi> as an <hi>un<g ref="char:EOLhyphen"/>lawful, wicked and deſtructive thing to divers Families,</hi> and that without diſtinction; as if all <hi>Concubinages</hi> were ſo without exception: Inſomuch, as by his own determination, this pettiful wrech cannot lye with his own wife, or with another bedfellow, but he will be guilty of that wickedneſs, which is as bad as <hi>Adulery</hi> or <hi>Inceſt,</hi> which is called <hi>Concubinage.</hi> And in this humour he begins his lurry, ſaying.</p>
+               <p n="35">35. That <hi>Had a Pamphlet of this nature been written by an avow'd Debauchee, or a Play<g ref="char:EOLhyphen"/>houſe Beau, it had been no matter of ſurpriſe. But to have any thing printed in defence of Con<g ref="char:EOLhyphen"/>cubinage by a Batchelor of Divinity, and a Mi<g ref="char:EOLhyphen"/>niſter of the Church of</hi> England, <hi>may juſtly aſto<g ref="char:EOLhyphen"/>niſh us.</hi> Is not this ſmart and prety (good Reader) is it not neatly reflected upon a B. D. <hi>or a Church of</hi> England <hi>Man?</hi> Yes, truly a <hi>Cow keeper,</hi> or <hi>a ſmutty ſweep Chimny,</hi> would get ſuch a leſſon without Book, and would talk of it. to his Wife and Boys, as a very pretty conceit. But when the ſtory ſhall come among the School boys, one ſays, and another anſwers ſaying, <hi>Concubinage,</hi> what is that?
+<pb n="11" facs="tcp:35360:9"/>anſwers <hi>Concubinatus?</hi> Our Maſter hath taught us to conſtrue it <hi>[a lying together of any two in bed]</hi> why then <hi>Dick Baldwin</hi> and <hi>Dun. Harris,</hi> we cannot go to bed together, but all the Boys in School will be aſtoniſhed at us! For all manner of <hi>Concubinage</hi> is an horrible thing, as <hi>bad as Adultery,</hi> which I never heard before; and I wonder how I came honeſtly into the World without being a Baſtard. But this Author allows of one <hi>Man and one Woman</hi> only in Marriage, but does not ſay how they muſt <hi>Concubinate, Concubinage</hi> being ſuch an heinous thing, that a <hi>B. D.</hi> may not at all juſtify it, without being ſhamed out of the world. And yet <hi>one Man and his own woman</hi> can <hi>not lye together,</hi> but they'll be guilty of Concubi<g ref="char:EOLhyphen"/>nage: Why ſure <hi>Dick</hi> this is a ſtrange doctrin, and I fear me your Dadee has publiſhed a flam.</p>
+               <p n="36">36. That <hi>a Miniſter of the Reformed Church</hi> ſhould do ſo groſs a thing, <hi>as to juſtify Concubi<g ref="char:EOLhyphen"/>nage</hi> (and that without any diſtinction) <hi>is al<g ref="char:EOLhyphen"/>together unſufferable</hi> (p. 1.) And yet is the thing <hi>unſufferable</hi> as he calls it, a moſt harmleſs mat<g ref="char:EOLhyphen"/>ter, whether we take it as is naturally meant or as I juſtifie it, which is nothing elſe but ſuch <hi>a Concubinage</hi> as may be called <hi>lawful;</hi> I would fain therefore know of <hi>R. Baldwin</hi> whether this <hi>Daemonides</hi> his Scribler be more fool or Knave, for he muſt be one.</p>
+               <p n="37">37. <hi>That Concubinage is one of the defects of
+<pb n="12" facs="tcp:35360:10"/>depraved nature.</hi> (p. 2.) That is <hi>lawful Concu<g ref="char:EOLhyphen"/>binage</hi> is ſo, for I juſtify no other.</p>
+               <p n="38">38. That <hi>I am an Advocate of Whoring</hi> (p. 2.) And yet no ſuch thing can be proved a<g ref="char:EOLhyphen"/>gainſt me, or is there any ground for any ſuch thing in my writings, but the contrary; and I offer'd my compurgative Oath, that I never uſed it in my life.</p>
+               <p n="39">39. That <hi>He joins cordially with the Grand-Jury in their preſentment,</hi> that to <hi>publiſh a ju<g ref="char:EOLhyphen"/>ſtification of Concubinage, is a wicked thing, and deſtructive to divers Families</hi> (p. 3.) And yet this doubty Champion for the Jury (p. 33.) turns <hi>Cat in the Pond,</hi> and cries, <hi>who doubts that ſome marriages or rather Concubinages may be good in the ſight of God, which are not ſo according to the laws of ſome Kings and Countries.</hi> Thus he confutes and <hi>gives himſelf the lye</hi> (in p. 33. a<g ref="char:EOLhyphen"/>gainſt what he ſaid in p. 3.)</p>
+               <p n="30">30. That <hi>In the latter end of my Pamphlet, I ſet up for a general Concubinage</hi> (p. 3.) That's falſe, for I mentioned only a <hi>lawful Concubi<g ref="char:EOLhyphen"/>nage, diſowning the unlawful.</hi> He belies my writings.</p>
+               <p n="41">41. That <hi>I confeſſed I went in unto my Maid out of a principle of burning Luſt.</hi> (p. 5.) I al<g ref="char:EOLhyphen"/>ledged indeed, that I had not the gift <hi>of Conti<g ref="char:EOLhyphen"/>nence;</hi> and that my Wife having wilfuly left me, I muſt either marry or burn. Which burn<g ref="char:EOLunhyphen"/>ing this <hi>Doemonides</hi> wantonly ſtiles a burning luſt but I have ſhewed the true ſenſe of the word in its place.</p>
+               <pb n="13" facs="tcp:35360:10"/>
+               <p n="42">42, <hi>An old lye new vaump'd</hi> (p. 5.) ſee lye 17.</p>
+               <p n="43">43. That <hi>it does not appear by any thing I have ſaid, that my marriage with</hi> Mary Tomkins <hi>was any other then Congreſſus Furtivus</hi> (p. 5.) This falſe, for that I ſaid, I married her according to the rule in Holy-writ.</p>
+               <p n="44">44. That my allegation, <hi>That</hi> Abraham <hi>went in unto</hi> Keturah <hi>in</hi> Sarahs <hi>time is falſe</hi> (p. 5.) And yet the text calls her his <hi>Concubine.</hi>
+               </p>
+               <p n="45">45. That <hi>to plead a neceſſity for more wives than one, is to arraign the wiſdom of God</hi> (p. 8.) And yet God allows of more <hi>Concubines</hi> called wives in a ſenſe (<hi>Exod.</hi> 21.10)</p>
+               <p n="46">46. That <hi>I miſquoted Scripture, as glad of Figleaves to cover my nakedneſs</hi> (p. 6.) This was ſpoken of the caſe of <hi>Keturah,</hi> which ei<g ref="char:EOLhyphen"/>ther as the Fool he did not, or as the Knave he would not underſtand.</p>
+               <p n="47">47. That <hi>I am a looſe Caſuiſt, for ſaying that Incontinency in its ſelf is no Sin, unleſs expreſt in unlawful uſes</hi> (p. 11.) Yet this is true that I ſaid, from St. <hi>Pauls</hi> words (1 <hi>Cor.</hi> 7, 9.) and whereas he allegeth, that the <hi>Incontinent are Sinners</hi> (2 Tim. 3.3.) that is, only in the unlawful uſe thereof.</p>
+               <p n="48">48. That <hi>I chooſe rather to make proviſion for the Fleſh, becauſe I went in unto my Maid accord<g ref="char:EOLhyphen"/>ing to Scripture wedlock</hi> (p. 12.) He might as well ſay, every one who marries a wife does ſo, for what I did, was God's rule in my caſe preſcribed; and marriage is the ſame.</p>
+               <pb n="14" facs="tcp:35360:11"/>
+               <p n="49">49. That <hi>I could not be ſatisfied to break the Commandment my ſelf, but taught others ſo to do,</hi> (p. 12.) And yet he cannot prove that I have done either the one or the other.</p>
+               <p n="50">50. That <hi>Incontinence implies the height of paſſion, becauſe the word</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſignifies they who can keep no bounds.</hi> (p. 12, 13) This falſe, for the true original word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and ſignifies <hi>Impotentia, or want of power,</hi> or one who has not St. <hi>Paul</hi>'s <hi>ability, to keep under his body.</hi> Here therefore this fellow is either Fool or Knave again. Let him examine his new Te<g ref="char:EOLhyphen"/>ſtament, and his Lexicon a little better.</p>
+               <p n="51">51. That <hi>Incontinency and burning are Syno<g ref="char:EOLhyphen"/>nimus terms</hi> (in 1 <hi>Cor.</hi> 7.9,) <hi>for there burning is oppoſed to continuency</hi> (p. 13.) This is falſe, for <hi>incontinency</hi> in that text is one that cannot contain, <hi>impotens</hi> one not able; and fearing to burn, or to be pained with deſire, as with a burning fire, is adviſed to marry, in order to avoid that danger. If this be not true, let me go for the dunce: And if this fellow wants underſtanding, let him enquire of wiſer men.</p>
+               <p n="52">52. That <hi>a man may divorce his Wife for his own Crime, when he pleaſes</hi> (Mat. 5.32.) <hi>and alleges I ſhould have ſaid, exceſs of the marriage bed in<g ref="char:EOLhyphen"/>ſtead of Fornication</hi> (p. 14.) This is falſe, and a ſporting with Scripture, whereas the <hi>Exceſs</hi> he mentions <hi>is Fornication;</hi> but not ſuch as to <hi>divorce a wife</hi> for a mutual fault between man and wife.</p>
+               <pb n="15" facs="tcp:35360:11"/>
+               <p n="53">53. That <hi>I own my ſelf guilty of incontinence to a ſcandalous exceſs,</hi>
+                  <list>
+                     <item>1st, for not reſtraining Concupiſence for one year at leaſt,</item>
+                     <item>2d, for not uſing <hi>Faſting and Prayer.</hi>
+                     </item>
+                     <item>3. for not bring<g ref="char:EOLhyphen"/>ing my body under.</item>
+                     <item>4. for not foreſeeing the ſcandal would follow of going in unto my Maid.</item>
+                  </list>
+All which things he cannot prove otherwiſe, but that I have done ſo: And yet concludes without the premiſes proved: whence this is a great lye. (p. 16, 17, 18.) and.</p>
+               <p n="54">54. is yet greater; That <hi>My caſe has all im<g ref="char:EOLhyphen"/>aginable circumſtances to make the world believe, I was acted by downright Luſt in this matter</hi> (p. 18.) For that without proof he concludes falſely and maliciouſly.</p>
+               <p n="55">55. That <hi>being engaged I would defend my practice anſwerable to the infamous</hi> John <hi>of</hi> Ley<g ref="char:EOLhyphen"/>den (p. 18.) This <hi>Daemonides</hi> having entred into a road of lying, knows not where to ſtop.</p>
+               <p n="56">56. That <hi>becauſe I own my wife and Sons</hi> did accuſe me of former <hi>ſuſpitions,</hi> which he calls <hi>Incontinencies, and that their accuſation might be true</hi> (p. 18.) This is villainous, I having proteſted the contrary, and they not charging ſo much in the Libel.</p>
+               <p n="57">57. That <hi>I arraigned the juſtice of Authority without making trial by an Application.</hi> This falſe, for that I arraigned not their Juſtice: I ſaid it was doubtful, and made no Applica<g ref="char:EOLhyphen"/>tion becauſe no Law abſolutely required ſuch a thing to be done.</p>
+               <pb n="16" facs="tcp:35360:12"/>
+               <p n="58">58. The old lye new vaumpt again (p. 23.) See lye 17.</p>
+               <p n="59">59. <hi>The matter ſo ſcandalous, it ought to have been examined by Judges competent:</hi> And yet no Law to requires it.</p>
+               <p n="60">60. That <hi>Mr</hi> Butler<hi>'s wife was no unbeliever</hi> (p. 24) She was ſo according to (1 <hi>Tim.</hi> 5.8.) <hi>An Infidel or worſe.</hi>
+               </p>
+               <p n="61">61. That my wife accuſes me of defiling her Bed (p. 25) the old lye, ſee lye 17.</p>
+               <p n="62">62 <hi>The ſame lye over again</hi> (p, 28.) See lye 17.</p>
+               <p n="63">63 <hi>That my Quotations from Divines are all either wreſted, or nothing to my purpoſe, or a<g ref="char:EOLhyphen"/>gainſt me</hi> (p. 27) And yet upon this examina<g ref="char:EOLhyphen"/>tion he can find neither one nor the other, nor the third. All of them declaring <hi>a diſſo<g ref="char:EOLhyphen"/>lution of marriage by deſertion,</hi> which is all that I quoted them for.</p>
+               <p n="64">64 <hi>The old lye over again</hi> (p. 29) See lye 17.</p>
+               <p n="65">65 <hi>That the paſſage of</hi> Ambroſe <hi>favours me not a whit</hi> (p. 29) and yet it ſpeaks full to the purpoſe.</p>
+               <p n="66">66 <hi>That</hi> Bucanus <hi>is against me</hi> (p. 31) Let any Reader judge thereof.</p>
+               <p n="67">67 <hi>That to live in Concubinage with a wife, is an</hi> Iriſh <hi>ſort of</hi> Engliſh (p. 32)</p>
+               <p n="68">68 <hi>That in the Quotation of</hi> Polanus, <hi>mine own evidence is turned againſt me</hi> (p. 29.) This very falſe.</p>
+               <p n="69">69 <hi>That</hi> Muſculus <hi>aſſigning Deſertion as a cauſe of Divorce, is nothing to my purpoſe</hi> (p. 29)
+<pb n="17" facs="tcp:35360:12"/>And yet I quoted it for no other purpoſe, but what he confeſſes he ſays.</p>
+               <p n="70">70 <hi>That Mr</hi> Butler <hi>wickedly and falſely tran<g ref="char:EOLhyphen"/>ſlated the place in</hi> Titus, <hi>in</hi> Bucanus (p, 30) And yet I tranſlated it not, but as in the text and apply'd it not, but as <hi>Bucanus</hi> hath done.</p>
+               <p n="71">71 <hi>That the profound politicks of our Concubi<g ref="char:EOLhyphen"/>nary Caſuiſt, are directly contrary to the procedure of the Almighty himſelf</hi> (p. 31) A ſenſleſs lye.</p>
+               <p n="72">72 <hi>That there can be no ſuch thing as a lawful Concubinage</hi> (p, 31,) And yet man and wife cannot lye together without it.</p>
+               <p n="73">73 <hi>That there is no text mentioned, that prov<g ref="char:EOLhyphen"/>eth the lawfulneſs of taking additional wives,</hi> (p, 36) This diſproved over and over a very lye.</p>
+               <p n="74">74 <hi>That the Prophet</hi> Malachy <hi>is of opinion contrary to Mr</hi> Butler (p, 38) He belies the Prophet as well as my ſelf.</p>
+               <p n="75">75 That <hi>tho' God impoſes a Law upon us, he impoſes none upon himſelf</hi> (p, 40) This is a ſort of Blaſphemy reflecting upon God, who is in all things a law unto himſelf, requiring us to be holy as he is holy (1 <hi>Pet,</hi> 1, 15,)</p>
+               <p n="76">76 <hi>That the holy Scriptures call ſuch Baſtards</hi> (<hi>Deut,</hi> 23 2) Quivis extra legitimum Conjugi<g ref="char:EOLhyphen"/>umnatus (p, 42) This lye is very blaſphemous comprehending alſo our Saviour, who was born out of marriage.</p>
+               <p n="77">77 That tho' <hi>the Scripture does not call them ſo, yet really they were ſo</hi> (p 42) This reflects as bad, and is as falſe.</p>
+               <pb n="18" facs="tcp:35360:13"/>
+               <p n="78">78 That <hi>the lawfulneſs of Concubinage is not demonſtrable by Scripture</hi> (p, 47,) And yet it is proved both out of the old and new Te<g ref="char:EOLhyphen"/>ſtament.</p>
+               <p n="79">79 <hi>That our author runs into contradictions, and writes impertinently</hi> (p, 51) And yet nei<g ref="char:EOLhyphen"/>ther one nor the other is in that page, and what he calls ſo is nothing like ſo, let it be read and wiſemen judge.</p>
+               <p n="80">80 <hi>That it was not lawful for</hi> David <hi>to marry his Father in law's wife</hi> (p, 56) And yet it is not prohibited.</p>
+               <p n="81">81 <hi>That the word wives</hi> (2 Sam, 12, 8) <hi>may be meant of</hi> Saul<hi>'s daughters which</hi> David <hi>had to wife</hi> (p, 57) And Yet <hi>David</hi> never had but one of his daughters, Wherefore, had not this <hi>Daemonides</hi> been a thorough pack'd im<g ref="char:EOLhyphen"/>pudent lyar, he would never have ſtarted and ſuggeſted for truth, ſuch a manifeſt un<g ref="char:EOLhyphen"/>truth.</p>
+               <p n="82">82 <hi>That he hath made it plain that the Apo<g ref="char:EOLhyphen"/>ſtle ſpeaks of the marriage bed only</hi> (in <hi>Heb,</hi> 13, 4) p, 52) and yet his Comment is ſuch, as can<g ref="char:EOLhyphen"/>not bare a <hi>Grammatical Conſtruction,</hi> nor ſtand in with the <hi>Jewiſh</hi> cuſtoms then in uſe.</p>
+               <p n="83">83 <hi>That the anſwer of our Saviour about di<g ref="char:EOLhyphen"/>vorce, that</hi> Moſes <hi>ſuffered the</hi> Jews <hi>to put away their wives, becauſe of their hardneſs of their Hearts, is ſufficient to put an end to all thoſe ca<g ref="char:EOLhyphen"/>vils from the old Teſtaments inſtances about Con<g ref="char:EOLhyphen"/>cubinage</hi> (p, 54) And yet there is a plain dif<g ref="char:EOLhyphen"/>ference
+<pb n="19" facs="tcp:35360:13"/>in the caſes, that being allowed meer<g ref="char:EOLhyphen"/>ly for <hi>hardneſs of heart</hi> by <hi>Moſes,</hi> and this by <hi>God himſelf,</hi> without any ſuch becauſe, and is an apparent <hi>non ſequitur,</hi>
+               </p>
+               <p n="84">84 <hi>That my instance of the conception of our Saviour, is vilainous and blaſphemous</hi> (p, 58) And yet cannot ſhew wherein: this is the very practice of the <hi>Jews,</hi> who charged <hi>Chriſt</hi> with blaſphemy; yet could not ſhew where<g ref="char:EOLhyphen"/>in he was guilty (<hi>Joh:</hi> 10: 33, <hi>&amp;c,</hi>)</p>
+               <p n="85">85 <hi>That God formed our Saviour in the womb, without a mediate generation</hi> (p: 58) This is againſt the <hi>Nikene</hi> and <hi>Athanaſian Creed:</hi>
+               </p>
+               <p n="86">86 <hi>That my impetuous Luſt makes me fly in the Face of God, himſelf</hi> (p: 58) And yet can he prove <hi>no ſuch Luſt, nor flying in the Face,</hi> but railes like the <hi>Devil,</hi> when the Angel <hi>Michael</hi> ſaid to him <hi>[The Lord rebuke thee:]</hi>
+               </p>
+               <p n="87">87 <hi>That our Saviours ſaying to the woman of</hi> Samaria <hi>[He whom thou now haſt is not thy Huſ<g ref="char:EOLhyphen"/>band] was a ſevere check to her,</hi> And yet this is nothing like a check in the Caſe (p: 59)</p>
+               <p n="88">88 That <hi>ſhe had five Husbands from whom ſhe divorced her ſelf</hi> (p: 59) This is a meer inven<g ref="char:EOLhyphen"/>tion:</p>
+               <p n="89">89 <hi>That the Apoſtle in</hi> (Heb: 13, 4) <hi>condemns by Whoremongers, all uſe of women out of mar<g ref="char:EOLhyphen"/>ried ſtate</hi> (p: 61) This is a lye of blaſphemous Conſequence:</p>
+               <p n="90">90 That <hi>the ſtories of</hi> Conſtantius Chlorus Conſtantine, <hi>&amp;c, are Foreign to my purpoſe</hi> (p:
+<pb n="20" facs="tcp:35360:14"/>61) And yet are inſtances of children born out of lawful marriage, and that notwithſtanding were in primitive times all owned as legiti<g ref="char:EOLhyphen"/>mate, and not baſe births.</p>
+               <p n="91">91 <hi>That</hi> Valentinian <hi>the Emperor was paſſion<g ref="char:EOLhyphen"/>ate unto madneſs</hi> (p: 63) A very lye of his own invention.</p>
+               <p n="92">92 <hi>That my paſſion for Concubinage, doth ſo effectually blind me, that I cannot ſee an inch from my noſe</hi> (p: 66) And yet I have ſeen ſo far as to find out all theſe lies, out of his ſcur<g ref="char:EOLhyphen"/>rilous pamphlet.</p>
+               <p n="93">93 <hi>That my propoſal for Concubinage as a re<g ref="char:EOLhyphen"/>medy againſt whoredom, is wholly ridiculous</hi> (p: 73) And yet I had it from <hi>God's word.</hi>
+               </p>
+               <p n="94">94 That <hi>no thinking Man, but will be eaſily convinced that the natural reſult of Concubinage must needs be Whoredom</hi> (p: 77) then muſt fol<g ref="char:EOLhyphen"/>low unavoidably, that the holy <hi>Abraham</hi> was an Whoremaſter; and that this Author was a Baſtard, becauſe not born without Concu<g ref="char:EOLhyphen"/>binage of his Father with his Mother.</p>
+               <p n="95">95 That he <hi>ſuppoſed Mr</hi> Butler <hi>ſenſible of his impoveriſhment by his</hi> Poligamy, <hi>the uſual re<g ref="char:EOLhyphen"/>ward of whoredom</hi> (p: 83) And yet can he find no footſteps of any ſuch thing as <hi>Poligamy</hi> or <hi>Whoredom</hi> by Mr <hi>Butler:</hi>
+               </p>
+               <p n="96">96 That <hi>I act more like a preacher of</hi> Sodom, <hi>then of Righteouſneſs</hi> (p: 83) Let wiſemen judge, and not common Liars, whoſe tongues are no ſlaunders:</p>
+               <pb n="21" facs="tcp:35360:14"/>
+               <p n="97">97 That <hi>Ovid</hi> was <hi>my brother Letcher</hi> (p 84) <hi>Ovid</hi> was a <hi>Poet;</hi> and Poets may lye by Au<g ref="char:EOLhyphen"/>thority: I am a brother to no ſuch.</p>
+               <p n="98">98 That <hi>he hath to do with an affronted Au<g ref="char:EOLhyphen"/>thor</hi> (p: 85) Liars may well be ſuch; but not ſo of the belied.</p>
+               <p n="99">99 That <hi>I threw dirt upon our Saviours Con<g ref="char:EOLhyphen"/>ception and birth</hi> (p 86) If any but a Liar had ſaid it, I ſhould have bluſhed.</p>
+               <p n="100">100 That my <hi>Queſtions in</hi> (p: 32) <hi>are unpar<g ref="char:EOLhyphen"/>donable</hi> (p: 86) he means p: 30 of mine, for my tract is miſpaged,</p>
+               <p n="101">101 That <hi>my thought is ſo extravagant, and impious, as if one given up of God to the luſts of mine own heart</hi> (p: 87) He ſees it ſeems a mote in mine eye, and yet hath a beam in his own:</p>
+               <p n="102">102 <hi>A Man who is one fleſh with his wife, can<g ref="char:EOLhyphen"/>not be ſo in a lawful ſenſe with another</hi> (p: 93) it muſt be not in a natural ſenſe, that a man <hi>can be ſo with his wife,</hi> but in a <hi>myſtical;</hi> and if ſo, then why not with two, or ten, as well as with one; is the Man a blockhead? or is he Knaviſh?</p>
+               <p n="103">103 That I <hi>have falſely alledged the cuſtoms of the primitive Church to defend my practice</hi> (p: 95) but he cannot ſay wherein, I have ſo falſifyed.</p>
+               <p n="104">104 That <hi>I am guilty of Blaſphemy</hi> (p: 87 So the <hi>Jews</hi> falſely ſaid of our Saviour; when there was not one ſyllable to be produced that was like it.</p>
+               <pb n="22" facs="tcp:35360:15"/>
+               <p>Such are his Centiloquy of <hi>Lies,</hi> and <hi>Falſe<g ref="char:EOLhyphen"/>hoods;</hi> which together with his <hi>bald Billingſ<g ref="char:EOLhyphen"/>gate ribauldry,</hi> and the <hi>abundance of his nothing to purpoſe, and falſe Conſequences,</hi> like Chaff winnowed from the Wheat; What will all his ſcribling amount unto? And yet be there any the leaſt force of ſenſe, in any of his bab<g ref="char:EOLhyphen"/>ble, that looks like matter of proof, I have comprehended it by way objection, in another tract which I am printing, by way of <hi>Expla<g ref="char:EOLhyphen"/>nation</hi> of that <hi>Concubinage</hi> which I juſtify, oc<g ref="char:EOLhyphen"/>caſioned partly by this bauling babler, and eſpecially for ſatisfaction of grand-jury men, and all rational Gentlemen that ſhall enquire thereof; not reckoning his frothy ſtuff worthy of the name of an anſwer to my little tract, or deſerving the honour of a Reply: But ra<g ref="char:EOLhyphen"/>ther to be dealt with as the <hi>Scythians did by</hi> their preſumptuous Servants, whom their wives had received into bed in their abſence: The proud Servants in warlike manner appeared in the field againſt their maſters returned home from Foreign Conqueſts: But the brave Maſters not once drawing a Sword, ſhewed only their <hi>hand whips,</hi> which the daſtardly Servants no ſooner ſaw, but their hearts were in their Mouths, and they all took to their heels: Whence I reckon, that no diſpute can be fitter anſwer for a common liar, then to poſt up his lyes, for which School boys were wont to be well whipt; whence remains
+<pb n="23" facs="tcp:35360:15"/>no more to meddle with his dunghil froth, ſav<g ref="char:EOLhyphen"/>only to take notice in a word or two of his villainous and cauſeleſs Raileries.</p>
+               <p>
+                  <hi>In his Epiſt. Dedi.</hi> (p. 5) <hi>Sir, ſaith he, this Notion appears to me ſo very foul and horrid, that I think there can be no better advice given you, than that of the Apoſtle to</hi> Simon Magus (Act 23.22) <hi>Repent therefore of this thy wick<g ref="char:EOLhyphen"/>edneſs, and pray God, if perhaps the thoughts of thy heart may be forgiven thee,</hi> &amp;c, And again in (p. 7) of the ſame, he further rails, ſaying [<hi>Then as to the opinion that the world entertains of you, it cannot be ſuppoſed to be favourable: The worſt of men abominate a lewd Clergy man &amp; you confeſs your ſelf to be accounted ſuch, there is no way left but to confeſs and forſake.</hi> Much after this rate the villainous <hi>Bradſhaw</hi> the bel<g ref="char:EOLhyphen"/>wether of the high court of Juſtice, after he had railed on the moſt innocent <hi>King Charles</hi> the firſt, <hi>as a Tyrant, a Traitor, a Murderer,</hi> very gravely gave him much ſuch Council as this puny wrech gives me <hi>(ſee the trial)</hi> And after this rate at <hi>Billingſgate,</hi> the verieſt whores uſually cry whore firſt, and will ſtrain their throats, ſaying thou Thief, thou Whore, thouSlut, and the moſt modeſt commonly car<g ref="char:EOLhyphen"/>ry away the greateſt load of this ſort of dirt. What I am of a <hi>blaſphemer, foul, horrid, a Sorcerer,</hi> or <hi>a lewd Clergy man,</hi> they who know me will hardly believe ſuch a black<g ref="char:EOLhyphen"/>mouth'd wretch; and they who know me not
+<pb n="24" facs="tcp:35360:16"/>will as uneaſily believe the words of a man of darkneſs, who is aſhamed of his name. Our Saviour in ſuch a caſe, tho' the <hi>High-prieſt</hi> charged him with blaſphemy, <hi>and rent his cloaths</hi> in contempt of him, and the <hi>People ſcor<g ref="char:EOLhyphen"/>ned him, and ſpit on him;</hi> yet like a <hi>dumb ſheep before the ſhearers anſwered not a word</hi> (Mat. 26.65, 66, 67. <hi>Ch.</hi> 27 14) And it matters not that I ſay any more, for that the ſearcher of all hearts knows the truth, of all caſes of railery and will revenge it: Shall a man turn again and talk to a Dog that barks, or kick again, when an Aſs begins and kicks firſt? He com<g ref="char:EOLhyphen"/>pares me to an <hi>avowed Debauchee, a play houſe Beau</hi> (p 1) And upbraids me with <hi>titillution, and making proviſion for the fleſh, and want of prayer,</hi> &amp;c. unto which of the Saints wilt thou <hi>turn ſaith he</hi> (p: 11, 12) Even ſo <hi>Eliphaz</hi> the <hi>Temanite</hi> upbraided <hi>Job</hi> Ch. (5, 1 and 154) But he belied him; he chargeth me with <hi>down right Luſt,</hi> and compares me with <hi>John</hi> of <hi>Leyden</hi> (p 18) And thus the hired Orator <hi>Tertullus</hi> ſaid of St <hi>Paul, we have found this man</hi> (ſaid he) <hi>a peſtilent Fellow, and a ſeditious man and a great ringleader of Schiſm</hi> (Act 24 5) and yet all he ſaid was meer ſtuff, and downright lies: And now what ſhall I ſay to theſe things? Should I anſwer him in his <hi>own language,</hi> wiſe<g ref="char:EOLhyphen"/>men would ſay, of me, <hi>that I am like him,</hi> and yet ſomething muſt be ſaid ſaith the wiſsman leſt he become <hi>wiſe in his own conceit</hi> (pro: 26
+<pb n="25" facs="tcp:35360:16"/>4, 5) thus have I ſaid enough, as to his rai<g ref="char:EOLhyphen"/>lery; next of the abundance of <hi>his ſcribble about nothing to the purpoſe:</hi>
+               </p>
+               <p>The promiſed deſigne in the Title pa: was <hi>1st to diſprove Concubinage and Poligamy:</hi>
+               </p>
+               <p n="2">
+                  <hi>2ly</hi> To aſſert <hi>a Divine Inſtiſtution of Mar<g ref="char:EOLhyphen"/>riage between one Man and one Woman only:</hi>
+               </p>
+               <p n="3">
+                  <hi>3ly</hi> To <hi>anſwer a Book writ by</hi> John Butler <hi>B.D. for which he was preſented,</hi> And <hi>4ly</hi> to prove that his Book was worth one Shilling. But lit<g ref="char:EOLhyphen"/>tle or meer nothing of any of theſe 4 things hath he performed. Now upon theſe four ſub<g ref="char:EOLhyphen"/>jects he hath ſcribled over in his Book and Ep: 110 pages, or near 7 Sheets of paper, whereof moſt of it conſiſts in idle waſt of Paper, to lit<g ref="char:EOLhyphen"/>tle or no purpoſe; as fit for no mans uſe but <hi>Soap boilers, Tobaccoſellers, Grocers</hi> and ſuch like people as have more uſe for the paper, than the writing therein: For firſt, I have collected thereout, <hi>a Centiloquy</hi> of lies, which together with the circumſtances thereto appertaining, may take up three parts in four of his Book: Now out of all theſe beſure, can be collected no proof for any of his four Subjects: Had they been printed together, as a little book I have ſeen when I was a School Boy, called an <hi>hundred merry tales,</hi> perhaps it might have fetch'd <hi>a penny a Book,</hi> but what's one penny towards twelve? And yet theſe are filthy lies, and not worth the name of merry tales: Or had they come forth as <hi>Aeſop</hi>'s Fables, as ſo
+<pb n="26" facs="tcp:35360:17"/>many impoſible ſtories, but yet containing <hi>mo<g ref="char:EOLhyphen"/>ral truths,</hi> it might have ſaved his leaves from lighting Tobacco at leaſt; or had it ſavour'd of <hi>Ovid</hi>'s <hi>Metamorphoſis,</hi> as a monſtrous and bouncing <hi>Romance,</hi> yet graced with <hi>poetical ſtory;</hi> it might have pleaſed ſome people who have nothing elſe to do but to read now and then a line, and ſo ſit down and laugh. But theſe are the worſt ſort of lies, like the Devils ſtories, told for truth, on purpoſe to deceive: Now the fourth part of the Book be<g ref="char:EOLhyphen"/>ſides the lies, is much of it taken up in <hi>Raileries</hi> And no People of faſhion care to hear <hi>ſcoulding</hi> excepting the trade drivers at <hi>Billingſgate,</hi> but then the miſchief is, the book is not calculated for that <hi>Meridian,</hi> and yet we have ſometimes 3 or 4 pages together of nothing but <hi>Railery.</hi> the lies alſo are all for the moſt part ſtufft with railery, ſo as <hi>Railery</hi> is the greateſt lecture in the whole book: Now beſides all this, we have much of <hi>Tautology,</hi> and <hi>non ſequitur</hi>'s taking up a deal of room, and beſides all theſe we meet with many pages together of ramb<g ref="char:EOLhyphen"/>ling diſcourſe, of no uſe at all but to ſtop bot<g ref="char:EOLhyphen"/>tles, as particularly from 68 to the end is of very ſmall uſe, excepting that the Bear took a plea<g ref="char:EOLhyphen"/>ſure to lick her own Whelps: I here ſay the Authors name is Salt: But if ſo, it has loſt its ſavour; and they ſay too, it is of the Epicene Gender, both <hi>He</hi> and <hi>She,</hi> in good time<g ref="char:punc">▪</g>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
